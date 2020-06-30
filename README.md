@@ -14,4 +14,4 @@ A basic authentication scheme is implemented yet commented out if you'd like to 
 
 # How do I use this?
 Ideally you'd step through the code to see how it works. You can also run it like this:
-  `./InferDockerRegistryHash redis:latest` (you can specify any dockerhub image out of the box) 
+  `./InferDockerRegistryHash -ImageName redis:latest` (you can specify any dockerhub image out of the box) 
