@@ -1,6 +1,6 @@
 # About
 
-This project shows an approach to generate a docker registry hash for a given docker image.
+This project shows an approach to generate a docker registry hash IDs for docker image layers.
 
 # Why use this?
 If you find yourself supporting older versions of Quay enterprise, you may be in a position where the older docker registry format prevents you from easily comparing images in other registries (like AWS ECR). 
